@@ -1,0 +1,320 @@
+fileFormatVersion: 2
+guid: ffaf23252b436e44393918e80f2ae9d2
+ModelImporter:
+  serializedVersion: 24200
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: AK-74(HP)(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mainpart.001
+      parentName: AK-74(HP)(Clone)
+      position: {x: -0.19743967, y: 1.1191629, z: -1.247896}
+      rotation: {x: 0.0038066767, y: -0.7050494, z: 0.01681182, w: 0.7089487}
+      scale: {x: 100, y: 100, z: 100.00001}
+    - name: butt of the rifle.002
+      parentName: AK-74(HP)(Clone)
+      position: {x: -0.19978654, y: 1.0554101, z: -1.9742575}
+      rotation: {x: 0.0038066767, y: -0.7050494, z: 0.01681182, w: 0.7089487}
+      scale: {x: 100, y: 100, z: 100.00001}
+    - name: gun breech protect.001
+      parentName: AK-74(HP)(Clone)
+      position: {x: -0.12392938, y: 1.3506336, z: -1.2886463}
+      rotation: {x: 0.0038066767, y: -0.7050494, z: 0.01681182, w: 0.7089487}
+      scale: {x: 100, y: 100, z: 100.00001}
+    - name: Barrel.004
+      parentName: AK-74(HP)(Clone)
+      position: {x: -0.19372785, y: 1.1911798, z: -0.24406163}
+      rotation: {x: 0.0038066767, y: -0.7050494, z: 0.01681182, w: 0.7089487}
+      scale: {x: 100, y: 100, z: 100.00001}
+    - name: handle.001
+      parentName: AK-74(HP)(Clone)
+      position: {x: -0.11137891, y: 0.8444847, z: -1.307141}
+      rotation: {x: 0.0038066767, y: -0.7050494, z: 0.01681182, w: 0.7089487}
+      scale: {x: 100, y: 100, z: 100.00001}
+    - name: clip.001
+      parentName: AK-74(HP)(Clone)
+      position: {x: -0.1042515, y: 0.75891614, z: -0.5781135}
+      rotation: {x: -0.089447886, y: -0.6993628, z: 0.11040076, w: 0.70050156}
+      scale: {x: 100, y: 100, z: 100}
+    - name: trigger Protect.001
+      parentName: AK-74(HP)(Clone)
+      position: {x: -0.1611893, y: 1.0096462, z: -0.90184605}
+      rotation: {x: 0.0038066767, y: -0.7050494, z: 0.01681182, w: 0.7089487}
+      scale: {x: 100, y: 100, z: 100.00001}
+    - name: trigger.001
+      parentName: AK-74(HP)(Clone)
+      position: {x: -0.13715172, y: 1.040103, z: -1.068417}
+      rotation: {x: 0.0038066767, y: -0.7050494, z: 0.01681182, w: 0.7089487}
+      scale: {x: 100, y: 100, z: 100.00001}
+    - name: butt of the rifle.003
+      parentName: AK-74(HP)(Clone)
+      position: {x: -0.12105381, y: 1.0012327, z: -2.5292645}
+      rotation: {x: 0.6948083, y: 0.7191754, z: 0.0050106975, w: -0.0017579189}
+      scale: {x: 100.00001, y: 100, z: 100}
+    - name: Barrel.005
+      parentName: AK-74(HP)(Clone)
+      position: {x: -0.11789596, y: 1.3706883, z: -0.13051465}
+      rotation: {x: 0.6967411, y: 0.7173135, z: -0.00052657374, w: -0.0036064966}
+      scale: {x: 99.99999, y: 100, z: 100}
+    - name: Barrel_wood.001
+      parentName: AK-74(HP)(Clone)
+      position: {x: -0.117040746, y: 1.3501093, z: 0.10675036}
+      rotation: {x: 0.0038066767, y: -0.7050494, z: 0.01681182, w: 0.7089487}
+      scale: {x: 100, y: 100, z: 100.00001}
+    - name: Barrel_protect.002
+      parentName: AK-74(HP)(Clone)
+      position: {x: -0.11396074, y: 1.2346417, z: 0.33885568}
+      rotation: {x: 0.6967404, y: 0.71731627, z: -0.0011165807, w: -0.0029996382}
+      scale: {x: 100.00001, y: 100, z: 100}
+    - name: Barrel_protect.003
+      parentName: AK-74(HP)(Clone)
+      position: {x: -0.11720061, y: 1.3431007, z: 0.32471743}
+      rotation: {x: 0.0033767922, y: 0.007625721, z: -0.6967331, w: 0.71728206}
+      scale: {x: 100, y: 100, z: 100.00001}
+    - name: Barrel_part.007
+      parentName: AK-74(HP)(Clone)
+      position: {x: -0.112383604, y: 1.2328914, z: 0.34113783}
+      rotation: {x: 0.69668984, y: 0.7173082, z: -0.008451526, w: 0.004553175}
+      scale: {x: 99.99999, y: 100, z: 100}
+    - name: Barrel.006
+      parentName: AK-74(HP)(Clone)
+      position: {x: -0.1122731, y: 1.2324843, z: 0.35819873}
+      rotation: {x: 0.69668984, y: 0.7173082, z: -0.008451526, w: 0.004553175}
+      scale: {x: 99.99999, y: 100, z: 100}
+    - name: Barrel_part.008
+      parentName: AK-74(HP)(Clone)
+      position: {x: -0.11567211, y: 1.344063, z: 0.33222923}
+      rotation: {x: 0.69668984, y: 0.7173082, z: -0.008451526, w: 0.004553175}
+      scale: {x: 99.99999, y: 100, z: 100}
+    - name: Barrel_part.009
+      parentName: AK-74(HP)(Clone)
+      position: {x: -0.1144911, y: 1.3452023, z: 0.54204}
+      rotation: {x: 0.69668984, y: 0.7173082, z: -0.008451526, w: 0.004553175}
+      scale: {x: 99.99999, y: 100, z: 100}
+    - name: Barrel_part.010
+      parentName: AK-74(HP)(Clone)
+      position: {x: -0.110839956, y: 1.2378528, z: 0.632889}
+      rotation: {x: 0.69668984, y: 0.7173082, z: -0.008451526, w: 0.004553175}
+      scale: {x: 99.99999, y: 100, z: 100}
+    - name: Barrel_part.011
+      parentName: AK-74(HP)(Clone)
+      position: {x: -0.12310541, y: 1.2772782, z: 0.705327}
+      rotation: {x: 0.0038066767, y: -0.7050494, z: 0.01681182, w: 0.7089487}
+      scale: {x: 100, y: 100, z: 100.00001}
+    - name: Barrel_part.012
+      parentName: AK-74(HP)(Clone)
+      position: {x: -0.10869491, y: 1.2454021, z: 1.0415534}
+      rotation: {x: 0.69668984, y: 0.7173082, z: -0.008451526, w: 0.004553175}
+      scale: {x: 99.99999, y: 100, z: 100}
+    - name: Barrel_part.013
+      parentName: AK-74(HP)(Clone)
+      position: {x: -0.10756338, y: 1.2492653, z: 1.2565752}
+      rotation: {x: 0.69668984, y: 0.7173082, z: -0.008451526, w: 0.004553175}
+      scale: {x: 99.99999, y: 100, z: 100}
+    - name: Barrel_end.001
+      parentName: AK-74(HP)(Clone)
+      position: {x: -0.10699308, y: 1.2512718, z: 1.3651973}
+      rotation: {x: 0.69668984, y: 0.7173082, z: -0.008451526, w: 0.004553175}
+      scale: {x: 99.99999, y: 100, z: 100}
+    - name: aim.002
+      parentName: AK-74(HP)(Clone)
+      position: {x: -0.111460924, y: 1.347246, z: 1.1499566}
+      rotation: {x: 0.0038066767, y: -0.7050494, z: 0.01681182, w: 0.7089487}
+      scale: {x: 100, y: 100, z: 100.00001}
+    - name: aim.003
+      parentName: AK-74(HP)(Clone)
+      position: {x: -0.114335775, y: 1.4540079, z: 1.1606178}
+      rotation: {x: 0.69668984, y: 0.7173082, z: -0.008451526, w: 0.004553175}
+      scale: {x: 99.99999, y: 100, z: 100}
+    - name: Barrel.007
+      parentName: AK-74(HP)(Clone)
+      position: {x: -0.19490814, y: 1.3515037, z: -0.2417871}
+      rotation: {x: 0.00698804, y: -0.7050249, z: 0.01361264, w: 0.70901746}
+      scale: {x: 100, y: 100, z: 100.00001}
+    - name: Sight.001
+      parentName: AK-74(HP)(Clone)
+      position: {x: -0.08041024, y: 1.4371387, z: -0.36886263}
+      rotation: {x: -0.49861023, y: -0.5104335, z: -0.486657, w: 0.5039945}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Sight_part.004
+      parentName: Sight.001
+      position: {x: -0.001148993, y: 0.00013914578, z: -0.000017470764}
+      rotation: {x: 0.7071068, y: -4.115903e-11, z: 1.2347709e-10, w: 0.7071067}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: Sight_part.007
+      parentName: Sight.001
+      position: {x: -0.0011489934, y: -0.0008653521, z: -0.000017472263}
+      rotation: {x: 0.00000013745239, y: 0.7071068, z: 0.7071067, w: 0.00000013790515}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: Sight_part.005
+      parentName: AK-74(HP)(Clone)
+      position: {x: -0.081645966, y: 1.4321008, z: -0.3693714}
+      rotation: {x: 0.0038066767, y: -0.7050494, z: 0.01681182, w: 0.7089487}
+      scale: {x: 100, y: 100, z: 100.00001}
+    - name: Sight_part.006
+      parentName: AK-74(HP)(Clone)
+      position: {x: -0.15323198, y: 1.4300823, z: -0.36886808}
+      rotation: {x: 0.0038066767, y: -0.7050494, z: 0.01681182, w: 0.7089487}
+      scale: {x: 100, y: 100, z: 100.00001}
+    - name: gun breech.001
+      parentName: AK-74(HP)(Clone)
+      position: {x: -0.051525235, y: 1.3284571, z: -0.5948761}
+      rotation: {x: 0.0038066767, y: -0.7050494, z: 0.01681182, w: 0.7089487}
+      scale: {x: 100, y: 100, z: 100.00001}
+    - name: Handle.001
+      parentName: AK-74(HP)(Clone)
+      position: {x: 0.019600749, y: 1.3027283, z: -0.48771566}
+      rotation: {x: -0.7050491, y: -0.0038057398, z: 0.70894897, w: -0.01681202}
+      scale: {x: 100.00001, y: 100, z: 100}
+    - name: nab.001
+      parentName: AK-74(HP)(Clone)
+      position: {x: -0.1218375, y: 1.2977115, z: -1.4154371}
+      rotation: {x: -0.49861023, y: -0.5104335, z: -0.486657, w: 0.5039945}
+      scale: {x: 100, y: 100, z: 100}
+    - name: safety catch part.001
+      parentName: AK-74(HP)(Clone)
+      position: {x: -0.035758257, y: 1.1678653, z: -1.250551}
+      rotation: {x: -0.07572994, y: -0.7009807, z: 0.096656725, w: 0.7025301}
+      scale: {x: 100, y: 100.00001, z: 100.00001}
+    - name: ramrod_ring.002
+      parentName: AK-74(HP)(Clone)
+      position: {x: -0.10819709, y: 1.1783576, z: 0.7902225}
+      rotation: {x: 0.69668984, y: 0.7173082, z: -0.008451526, w: 0.004553175}
+      scale: {x: 99.99999, y: 100, z: 100}
+    - name: ramrod.001
+      parentName: AK-74(HP)(Clone)
+      position: {x: -0.108382225, y: 1.1773344, z: 0.7530685}
+      rotation: {x: 0.69668984, y: 0.7173082, z: -0.008451526, w: 0.004553175}
+      scale: {x: 99.99999, y: 100, z: 100}
+    - name: ramrod_part.002
+      parentName: AK-74(HP)(Clone)
+      position: {x: -0.10828614, y: 1.1848547, z: 0.7921239}
+      rotation: {x: -0.49861023, y: -0.5104335, z: -0.486657, w: 0.5039945}
+      scale: {x: 100, y: 100, z: 100}
+    - name: ramrod_ring.003
+      parentName: AK-74(HP)(Clone)
+      position: {x: -0.10895025, y: 1.1757071, z: 0.64674}
+      rotation: {x: 0.69668984, y: 0.7173082, z: -0.008451526, w: 0.004553175}
+      scale: {x: 99.99999, y: 100, z: 100}
+    - name: ramrod_part.003
+      parentName: AK-74(HP)(Clone)
+      position: {x: -0.10903931, y: 1.1822044, z: 0.6486417}
+      rotation: {x: -0.49861023, y: -0.5104335, z: -0.486657, w: 0.5039945}
+      scale: {x: 100, y: 100, z: 100}
+    - name: ramrodPart.001
+      parentName: AK-74(HP)(Clone)
+      position: {x: -0.10604656, y: 1.1853341, z: 1.2097867}
+      rotation: {x: 0.69668984, y: 0.7173082, z: -0.008451526, w: 0.004553175}
+      scale: {x: 99.99999, y: 100, z: 100}
+    - name: safety catch.001
+      parentName: AK-74(HP)(Clone)
+      position: {x: -0.035075307, y: 1.1684955, z: -1.2501047}
+      rotation: {x: -0.04479522, y: -0.70363504, z: 0.06563359, w: 0.70610434}
+      scale: {x: 2.417812, y: 2.417812, z: 2.4178119}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
