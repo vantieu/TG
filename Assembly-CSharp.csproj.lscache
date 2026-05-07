@@ -51,9 +51,11 @@ TemporaryDependencyNodeTargetIdentifier=netstandard2.1
 
 [sourceFiles]
 Assets/Scripts/
+ Bullet.cs
  CameraSwitcher.cs
  FPSCamera.cs
  Movement.cs
+ Shooter.cs
  TPSCamera.cs
 Temp/obj/Assembly-CSharp/.NETStandard,Version=v2.1.AssemblyAttributes.cs
 

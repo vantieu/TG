@@ -36,6 +36,8 @@ public class Movement : MonoBehaviour
         PlayerJump();
     }
 
+
+
     private void PlayerJump()
     {
         // ===== JUMP =====
